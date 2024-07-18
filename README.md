@@ -149,14 +149,8 @@
 </p>
 
 <!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://wakatime.com/@hcrypto7">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hcrypto7&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
 
 <div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcrypto7&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   <a width='50%' href="https://github.com/hcrypto7?tab=achievements">
     <img src="https://github-profile-trophy.vercel.app/?username=hcrypto7&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@CryptoNinja's trophy stats"/>
   </a>
