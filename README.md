@@ -141,24 +141,24 @@
 
 <p align="center">
   <a href="https://github.com/hcrypto7?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=hcrypto7&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@hcrypto7's github-readme-stats"/>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=DevGhost511&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@hcrypto7's github-readme-stats"/>
   </a>
   <a href="https://github.com/hcrypto7?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=hcrypto7&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@hcrypto7's github-readme-streak-stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=DevGhost511&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@hcrypto7's github-readme-streak-stats"/>
   </a>
 </p>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@hcrypto7">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hcrypto7&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/@DevGhost511">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevGhost&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 
 <div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcrypto7&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/hcrypto7?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=hcrypto7&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@hcrypto7's trophy stats"/>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGhost511&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/DevGhost511?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=DevGhost511&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@DevGhost511's trophy stats"/>
   </a>
 </div>
 
