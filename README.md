@@ -1,16 +1,7 @@
 # <div align="center"> full-stack Web & Blockchain Developer &nbsp;</div>
 
 <br/>🤝 I’m finding a Job to challenge "Real" world problems. I bring you the best solution for your idea!
-<br/>💬 am a senior full-stack and blockchain engineer with a strong emphasis on UI/UX design. With five years of
-experience, I have successfully led the development of projects such as OMDAO, VIPTalkers, BitWizard, and Peracel.
-
-I possess extensive expertise in both frontend and backend development, utilizing technologies including JavaScript, TypeScript, Node.js,
-React, Next.js, Nest.js, Python, Golang, and Rust. My proficiency in blockchain technology encompasses Solana and Rust, along with a deep
-understanding of tools such as Foundry, Anchor, Hardhat, Ethereum, Cosmos SDK, Ethers.js, Wagmi/Viem, and web3.js.
-
-In addition to my technical skills, I am adept at creating intuitive user interfaces and enhancing user experiences through Figma and Adobe XD. I
-also have experience in database management with MySQL and MongoDB, version control with Git and GitHub, and applying Agile methodologies to
-ensure efficient project delivery.
+<br/>💬 
 <br/>
 
 
@@ -146,33 +137,16 @@ ensure efficient project delivery.
 <br/>
 
 
-# 📊 GitHub Activities:
+# About Me:
+🔭 am a senior full-stack and blockchain engineer with a strong emphasis on UI/UX design. With five years of
+experience, I have successfully led the development of projects such as OMDAO, VIPTalkers, BitWizard, and Peracel.
 
-<p align="center">
-  <a href="https://github.com/hcrypto7?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=DevGhost511&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@hcrypto7's github-readme-stats"/>
-  </a>
-  <a href="https://github.com/hcrypto7?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=DevGhost511&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@hcrypto7's github-readme-streak-stats"/>
-  </a>
-</p>
+I possess extensive expertise in both frontend and backend development, utilizing technologies including JavaScript, TypeScript, Node.js,
+React, Next.js, Nest.js, Python, Golang, and Rust. My proficiency in blockchain technology encompasses Solana and Rust, along with a deep
+understanding of tools such as Foundry, Anchor, Hardhat, Ethereum, Cosmos SDK, Ethers.js, Wagmi/Viem, and web3.js.
 
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://wakatime.com/@DevGhost511">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevGhost&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-
-<div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGhost511&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/DevGhost511?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=DevGhost511&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@DevGhost511's trophy stats"/>
-  </a>
-</div>
-
-# 💫 About Me:
-🔭 I build Web Applicatons with Modern UI/UX, Web3 Dapp with real time blockchain event fetching, NFTs, CrossChain and Love to play with different DeFi protocols
-
+In addition to my technical skills, I am adept at creating intuitive user interfaces and enhancing user experiences through Figma and Adobe XD. I
+also have experience in database management with MySQL and MongoDB, version control with Git and GitHub, and applying Agile methodologies to
+ensure efficient project delivery.
 # 💻 Tech Stack: 
 ![Rust](https://img.shields.io/badge/rust-%93323330.svg?style=for-the-badge&logo=rust&logoColor=%23F7DF1E) ![Solana](https://img.shields.io/badge/solana-%93323330.svg?style=for-the-badge&logo=solana&logoColor=%FF070F1E)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Cosmos SDK](https://img.shields.io/badge/-hardhat-yellow?style=for-the-badge) ![Etherjs](https://img.shields.io/badge/-Ethersjs-purple?style=for-the-badge) ![Ethereum](https://img.shields.io/badge/-Ethereum-purple?style=for-the-badge) ![Avalanche](https://img.shields.io/badge/-avalanche-orange?style=for-the-badge) ![TheGraph](https://img.shields.io/badge/-thegraph-purple?style=for-the-badge) ![NFT](https://img.shields.io/badge/-nft-pink?style=for-the-badge) ![DefI](https://img.shields.io/badge/-defi-yellow?style=for-the-badge) ![DAO](https://img.shields.io/badge/-dao-blue?style=for-the-badge) ![IPFS](https://img.shields.io/badge/-ipfs-green?style=for-the-badge) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Anchor](https://img.shields.io/badge/anchor-%23F24E1E.svg?style=for-the-badge&logo=anchor&logoColor=white)  ![Foundry](https://img.shields.io/badge/foundry-%23F24E1E.svg?style=for-the-badge&logo=foundry&logoColor=white) 
