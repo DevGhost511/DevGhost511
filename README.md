@@ -1,7 +1,16 @@
-# <div align="center">💫 Frontend | Backend | Blockchain Developer 💫 &nbsp;</div>
+# <div align="center"> full-stack Web & Blockchain Developer &nbsp;</div>
 
 <br/>🤝 I’m finding a Job to challenge "Real" world problems. I bring you the best solution for your idea!
-<br/>💬 Ask me about React, Next.js, Solidity, Solana, Rust, CSS, DEFI, NFT, WEB3, JS/TS, CrossChain and Life-Science related topics
+<br/>💬 am a senior full-stack and blockchain engineer with a strong emphasis on UI/UX design. With five years of
+experience, I have successfully led the development of projects such as OMDAO, VIPTalkers, BitWizard, and Peracel.
+
+I possess extensive expertise in both frontend and backend development, utilizing technologies including JavaScript, TypeScript, Node.js,
+React, Next.js, Nest.js, Python, Golang, and Rust. My proficiency in blockchain technology encompasses Solana and Rust, along with a deep
+understanding of tools such as Foundry, Anchor, Hardhat, Ethereum, Cosmos SDK, Ethers.js, Wagmi/Viem, and web3.js.
+
+In addition to my technical skills, I am adept at creating intuitive user interfaces and enhancing user experiences through Figma and Adobe XD. I
+also have experience in database management with MySQL and MongoDB, version control with Git and GitHub, and applying Agile methodologies to
+ensure efficient project delivery.
 <br/>
 
 
