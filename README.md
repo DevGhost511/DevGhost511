@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=0FD6FF&lines=Hi+%F0%9F%91%8B%2C+Welcome+to+my+Github+page;I+am+a+full+stack+|+blockchain+developer)](https://github.com/DevGhost511)
 
-
-<br/>  🌐 # My Creativity Will Turn Your Ideas To Reality!
-<br/>
-
+Gain insight into the crypto trading bot boilerplate and plant your own strategy to make a profit
 
 # 
 <table align="center">
@@ -136,17 +133,5 @@
 </table>
 <br/>
 
-
-# About Me:
-🔭 am a senior full-stack and blockchain engineer with a strong emphasis on UI/UX design. With five years of
-experience, I have successfully led the development of projects such as OMDAO, VIPTalkers, BitWizard, and Peracel.
-
-I possess extensive expertise in both frontend and backend development, utilizing technologies including JavaScript, TypeScript, Node.js,
-React, Next.js, Nest.js, Python, Golang, and Rust. My proficiency in blockchain technology encompasses Solana and Rust, along with a deep
-understanding of tools such as Foundry, Anchor, Hardhat, Ethereum, Cosmos SDK, Ethers.js, Wagmi/Viem, and web3.js.
-
-In addition to my technical skills, I am adept at creating intuitive user interfaces and enhancing user experiences through Figma and Adobe XD. I
-also have experience in database management with MySQL and MongoDB, version control with Git and GitHub, and applying Agile methodologies to
-ensure efficient project delivery.
 # 💻 Tech Stack: 
 ![Rust](https://img.shields.io/badge/rust-%93323330.svg?style=for-the-badge&logo=rust&logoColor=%23F7DF1E) ![Solana](https://img.shields.io/badge/solana-%93323330.svg?style=for-the-badge&logo=solana&logoColor=%FF070F1E)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Cosmos SDK](https://img.shields.io/badge/-hardhat-yellow?style=for-the-badge) ![Etherjs](https://img.shields.io/badge/-Ethersjs-purple?style=for-the-badge) ![Ethereum](https://img.shields.io/badge/-Ethereum-purple?style=for-the-badge) ![Avalanche](https://img.shields.io/badge/-avalanche-orange?style=for-the-badge) ![TheGraph](https://img.shields.io/badge/-thegraph-purple?style=for-the-badge) ![NFT](https://img.shields.io/badge/-nft-pink?style=for-the-badge) ![DefI](https://img.shields.io/badge/-defi-yellow?style=for-the-badge) ![DAO](https://img.shields.io/badge/-dao-blue?style=for-the-badge) ![IPFS](https://img.shields.io/badge/-ipfs-green?style=for-the-badge) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Anchor](https://img.shields.io/badge/anchor-%23F24E1E.svg?style=for-the-badge&logo=anchor&logoColor=white)  ![Foundry](https://img.shields.io/badge/foundry-%23F24E1E.svg?style=for-the-badge&logo=foundry&logoColor=white) 
